@@ -6,7 +6,7 @@ Following the February 2024 investigation into **Listeria monocytogenes** contam
 
 **Listeria monocytogenes** is a bacteria that thrives in diverse environments like soil, water, and damp areas. It can contaminate food during harvesting, processing, or transportation, and it can even survive in refrigeration. When consumed, it may lead to a severe illness called listeriosis.
 
-This project was part of a hands-on learning experience at the **Broadstreet Institute**, where I used **SAS programming** for data cleaning, analysis, and visualization to uncover patterns in outbreak-related fatalities.
+This project was part of a hands-on learning experience at the [Broadstreet Institute](https://www.broadstreet.org/about-us), where I used **SAS programming** for data cleaning, analysis, and visualization to uncover patterns in outbreak-related fatalities.
 
 > **Note**: The data used for this project was obtained from the CDC's National Outbreak Reporting System (NORS), and the results are based on public data available from 2009 to 2021.
 
@@ -25,10 +25,10 @@ This project was part of a hands-on learning experience at the **Broadstreet Ins
 
 The analysis was performed using **SAS** with the following steps:
 
-1. **Data Import**: Importing the National Outbreak Public Data Tool worksheet into SAS and reviewing the contents.
+1. **Data Import**: Importing the [National Outbreak Public Data Tool worksheet](https://github.com/guilzee/SASProgramming/blob/main/AnalyzingListeriaOutbreaks/NationalOutbreakPublicDataTool.csv) into SAS and reviewing the contents.
 2. **Data Cleaning**: Renaming and recategorizing settings to simplify the data.
 3. **Frequency Analysis**: Creating frequency tables to identify outbreak patterns based on settings and outcomes.
-4. **Visualization**: Developing bar charts to display trends, such as the frequency of outbreaks by year.
+4. **Visualization**: Develop bar charts to display trends, such as the frequency of outbreaks by year.
 
 ### Sample SAS Code
 
